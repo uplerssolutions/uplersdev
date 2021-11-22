@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/stagingprojectpr/public_html/projects/
-    - bin/cp -R uplersdevgit $DEPLOYPATH
+    - export DEPLOYPATH=/home/stagingprojectpr/public_html/
+    - projects -R uplersdevgit $DEPLOYPATH
