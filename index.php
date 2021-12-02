@@ -1,1 +1,1 @@
-<?php echo "Welcome to uplersdev Git Repo thanks2"; ?>
+<?php echo "Welcome to uplersdev Git Repo thanks3"; ?>
